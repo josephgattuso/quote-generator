@@ -4,17 +4,44 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Quote Generator</title>
-    <link rel="icon" type="image/png" href="/favicon.png" />
+    <!-- favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <meta name="theme-color" content="#fff" />
     <!-- apis -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Coda&display=swap"
+      rel="stylesheet"
+    />
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
     />
-    <!-- style sheets -->
+    <!-- css -->
     <link rel="stylesheet" href="main.css" />
   </head>
   <body>
-    <h1>Quote Generator</h1>
+    <div class="quote-container" id="quote-container">
+      <!-- Quote -->
+      <div class="quote-text">
+        <i class="fas fa-quote-left"></i>
+        <span id="quote">
+          What you are is what you have been. What you'll be is what you do now.
+        </span>
+        <i class="fas fa-quote-right"></i>
+      </div>
+      <!-- Author -->
+      <div class="quote-author">
+        <span id="author">Buddha</span>
+      </div>
+      <!-- Buttons -->
+      <div class="button-container">
+        <button class="twitter-button" id="twitter">
+          <i class="fab fa-twitter"></i>
+        </button>
+        <button id="new-quote">New Quote</button>
+      </div>
+    </div>
     <!-- scripts -->
     <script src="script.js"></script>
   </body>
