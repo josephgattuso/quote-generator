@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://josephgattuso.github.io/favicon.png" alt="" />
+  <img src="https://github.com/josephgattuso/quote-generator/blob/master/icons/apple-touch-icon.png?raw=true" width="60" />
   <br />
   <a href="https://josephgattuso.github.io">
     Quote Generator
