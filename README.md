@@ -15,7 +15,7 @@
 <p align="center">
   <a
     target="_blank"
-    href="https://github.com/josephgattuso/[repo]/blob/master/LICENSE"
+    href="https://github.com/josephgattuso/quote-generator/blob/master/LICENSE"
   >
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" />
   </a>
@@ -30,15 +30,15 @@
   </a>
 </p>
 
-## 🚀 Quick start
+<!-- ## 🚀 Quick start -->
 
 ## 📖 User stories
 
 ### Todo
 
-- [ ] Add HTML elements and styles
-- [ ] Create buttons
-- [ ] Manipulate the DOM
+- [x] Add HTML elements and styles
+- [x] Create buttons
+- [ ] Add the API
 - [ ] Create a loader with JS
 
 ### Done
