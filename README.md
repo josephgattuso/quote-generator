@@ -34,17 +34,23 @@
 
 ## 📖 User stories
 
-### Todo
+### TODO
+
+- [ ] Integrate API into front-end
+- [ ] Create a loader with JS
+
+### DONE
 
 - [x] Add HTML elements and styles
 - [x] Create buttons
-- [ ] Add the API
-- [ ] Create a loader with JS
+- [x] Add the API
 
-### Done
+## ⚠️ Status Code 429
+
+Free proxy APIs, such as 'CORS Anywhere', often results in `http status code 429`, because there is too much traffic. There is no workaround to the 429 error other than just wait.
 
 ## 🔗 Resources
 
 - [Hero Patterns](https://www.heropatterns.com/) - free and open-source hero pattern backgrounds
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) - JavaScript Developer Docs
-- [Learn JavaScript](https://learnjavascript.online/) - Learn and practice modern JavaScript step by step
+- [Forismatic API](https://forismatic.com/en/api/) - random quote API
+- [3 Ways to Fix the CORS Error](https://medium.com/@dtkatz/3-ways-to-fix-the-cors-error-and-how-access-control-allow-origin-works-d97d55946d9) - how to fix the CORS error
