@@ -35,3 +35,7 @@ yarn-error.log*
 /ideas/
 
 .vercel
+
+# VSCode
+.editorconfig
+.prettierrc
