@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/josephgattuso/quote-generator/blob/master/icons/apple-touch-icon.png?raw=true" width="60" />
+  <img src="https://github.com/josephgattuso/quote-generator/blob/master/favicon192.png?raw=true" width="60" />
   <br />
   <a href="https://josephgattuso.github.io">
     Quote Generator
@@ -36,7 +36,6 @@
 
 ### TODO
 
-- [ ] Integrate API into front-end
 - [ ] Create a loader with JS
 
 ### DONE
@@ -44,6 +43,7 @@
 - [x] Add HTML elements and styles
 - [x] Create buttons
 - [x] Add the API
+- [x] Integrate API into front-end
 
 ## ⚠️ Status Code 429
 
