@@ -1,5 +1,5 @@
 {
-  "name": "js-project",
+  "name": "quote-generator",
   "private": true,
   "version": "0.1.0",
   "description": "",
@@ -11,7 +11,7 @@
   "main": "index.html",
   "repository": {
     "type": "git",
-    "url": "git@github.com:josephgattuso/[repo]"
+    "url": "git@github.com:josephgattuso/quote-generator"
   },
   "dependencies": {},
   "devDependencies": {}
